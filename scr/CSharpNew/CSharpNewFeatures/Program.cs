@@ -2,9 +2,9 @@
 using CSharpNewFeatures;
 
 /// <summary> 1
-/// New start point without main method.
+/// New start point without main method. (TopLevelCall)
 /// Direct access for args.
-/// Direct access for static/Non static function within file.
+/// Direct access for static/Non static functions within file.
 /// </summary>
 Console.WriteLine("Hello .NET 5 with C#- 9 !");
 Console.WriteLine($"Number of agrs pass : {args.Length}");
@@ -21,7 +21,7 @@ PersonModel user1 = new(1, "Jonny", "Smith");
 PersonModel user2 = new() { Id = 2, FisrtName = "Robert", LastName = "Smith" };
 PersonModel user3 = null;
 
-/// Error if not commented : can not assigned new value. Id is init prop.
+/// Error if not commented : can not assigned new value. Id is init props.
 //user1.Id = 3;
 user1.FisrtName = "John";
 
