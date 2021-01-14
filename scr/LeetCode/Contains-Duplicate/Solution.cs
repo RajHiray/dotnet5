@@ -14,7 +14,7 @@ namespace Contains_Duplicate
         public bool ContainsDuplicate(int[] nums)
         {
             var hash = new HashSet<int>(nums);
-            return hash.Count<nums.Length;
+            return hash.Count < nums.Length;
         }
 
         /// <summary>
@@ -24,7 +24,7 @@ namespace Contains_Duplicate
         /// <param name="nums"> Arrayy of Elements</param>
         /// <returns></returns>
         public bool ContainsDuplicate1(int[] nums)
-        {            
+        {
             Array.Sort(nums);
             for (int i = 1; i < nums.Length; i++)
             {
