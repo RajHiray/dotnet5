@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find-All-Numbers-Disappeare
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find-All-Duplicates-In-Array", "Find-All-Duplicates-In-Array\Find-All-Duplicates-In-Array.csproj", "{C6578D90-1BB0-4C6E-9A7B-B90CBFCB0038}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set-Matrix-Zeroes", "Set-Matrix-Zeroes\Set-Matrix-Zeroes.csproj", "{9A516C8E-A5F2-4AD8-8AEC-01AACAD18D82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{C6578D90-1BB0-4C6E-9A7B-B90CBFCB0038}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6578D90-1BB0-4C6E-9A7B-B90CBFCB0038}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6578D90-1BB0-4C6E-9A7B-B90CBFCB0038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A516C8E-A5F2-4AD8-8AEC-01AACAD18D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A516C8E-A5F2-4AD8-8AEC-01AACAD18D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A516C8E-A5F2-4AD8-8AEC-01AACAD18D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A516C8E-A5F2-4AD8-8AEC-01AACAD18D82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
