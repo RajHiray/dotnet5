@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two-Sum", "Two-Sum\Two-Sum.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product-of-Array-Except-Self", "Product-of-Array-Except-Self\Product-of-Array-Except-Self.csproj", "{22CB8422-8B0F-43AA-9770-7CA7B82946E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find-The-Duplicate-Number", "Find-The-Duplicate-Number\Find-The-Duplicate-Number.csproj", "{AFA49144-E771-4D60-BE51-4DACEFD8A3DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find-The-Duplicate-Number", "Find-The-Duplicate-Number\Find-The-Duplicate-Number.csproj", "{AFA49144-E771-4D60-BE51-4DACEFD8A3DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find-All-Numbers-Disappeared", "Find-All-Numbers-Disappeared\Find-All-Numbers-Disappeared.csproj", "{A5B96E11-6589-4DEB-AF24-BBF8033F2F39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{AFA49144-E771-4D60-BE51-4DACEFD8A3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFA49144-E771-4D60-BE51-4DACEFD8A3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFA49144-E771-4D60-BE51-4DACEFD8A3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5B96E11-6589-4DEB-AF24-BBF8033F2F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B96E11-6589-4DEB-AF24-BBF8033F2F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B96E11-6589-4DEB-AF24-BBF8033F2F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B96E11-6589-4DEB-AF24-BBF8033F2F39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
