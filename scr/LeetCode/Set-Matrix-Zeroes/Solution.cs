@@ -11,7 +11,7 @@ namespace Set_Matrix_Zeroes
         /// <summary>
         /// If an element is 0, set its entire row and column to 0
         /// </summary>
-        /// <param name="matrix"></param>
+        /// <param name="matrix">Given an m x n matrix.</param>
         public void SetZeroes(int[][] matrix)
         {
             int r = matrix.Length;
