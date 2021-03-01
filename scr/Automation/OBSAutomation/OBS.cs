@@ -20,6 +20,7 @@ namespace OBSAutomation
 		{
 			_OBS = new ObsWebSocket();
 			_OBS.Connect($"ws://127.0.0.1:4444", "");
+			GetScenes();
 			return Task.CompletedTask;
 		}
 

@@ -20,8 +20,6 @@ namespace OBSAutomation
             await OBS.Connect();
             Console.WriteLine("connected");
 
-            OBS.GetScenes();
-
             Console.ReadLine();
         }
 
