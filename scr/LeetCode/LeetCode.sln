@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Set-Matrix-Zeroes", "Set-Ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spiral-Matrix", "Spiral-Matrix\Spiral-Matrix.csproj", "{0219A83F-B5A7-43A1-B7C2-B90BF11118A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateImage", "RotateImage\RotateImage.csproj", "{F6B3E1D9-40E8-4BCB-A78A-B5094686BA43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateImage", "RotateImage\RotateImage.csproj", "{F6B3E1D9-40E8-4BCB-A78A-B5094686BA43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrappingRain", "TrappingRain\TrappingRain.csproj", "{99271F98-0E9B-4439-B722-CD524B89A911}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{F6B3E1D9-40E8-4BCB-A78A-B5094686BA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6B3E1D9-40E8-4BCB-A78A-B5094686BA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6B3E1D9-40E8-4BCB-A78A-B5094686BA43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99271F98-0E9B-4439-B722-CD524B89A911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99271F98-0E9B-4439-B722-CD524B89A911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99271F98-0E9B-4439-B722-CD524B89A911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99271F98-0E9B-4439-B722-CD524B89A911}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
